@@ -1,0 +1,4 @@
+Opcje wymagane do kompilacji programu w Visual Studio:
+-biblioteka gtk3
+-komenda "_CRT_SECURE_NO_WARNINGS" w C/C++ -> Preprocessor
+-wyłączenie optymalizacji kodu 
