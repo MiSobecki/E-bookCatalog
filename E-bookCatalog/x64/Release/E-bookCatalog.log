@@ -1,0 +1,45 @@
+﻿  Add_datas.c
+C:\Users\micha\Desktop\Catalog\E-bookCatalog\Add_datas.c(7,11): warning C4013: niezdefiniowany "addToFile"; przy założeniu, że extern zwraca int
+  Add_window.c
+  main.c
+C:\Users\micha\Desktop\Catalog\E-bookCatalog\main.c(83,79): warning C4047: "funkcja": "GError **" różni się w poziomach operatorów pośrednich od "GError *"
+C:\Users\micha\Desktop\Catalog\E-bookCatalog\main.c(83,79): warning C4024: "gdk_pixbuf_new_from_file_at_scale": różne typy dla formalnego i rzeczywistego parametru 5
+C:\Users\micha\Desktop\Catalog\E-bookCatalog\main.c(85,75): warning C4047: "funkcja": "GError **" różni się w poziomach operatorów pośrednich od "GError *"
+C:\Users\micha\Desktop\Catalog\E-bookCatalog\main.c(85,75): warning C4024: "gdk_pixbuf_new_from_file_at_scale": różne typy dla formalnego i rzeczywistego parametru 5
+C:\Users\micha\Desktop\Catalog\E-bookCatalog\main.c(87,78): warning C4047: "funkcja": "GError **" różni się w poziomach operatorów pośrednich od "GError *"
+C:\Users\micha\Desktop\Catalog\E-bookCatalog\main.c(87,78): warning C4024: "gdk_pixbuf_new_from_file_at_scale": różne typy dla formalnego i rzeczywistego parametru 5
+C:\Users\micha\Desktop\Catalog\E-bookCatalog\main.c(89,77): warning C4047: "funkcja": "GError **" różni się w poziomach operatorów pośrednich od "GError *"
+C:\Users\micha\Desktop\Catalog\E-bookCatalog\main.c(89,77): warning C4024: "gdk_pixbuf_new_from_file_at_scale": różne typy dla formalnego i rzeczywistego parametru 5
+C:\Users\micha\Desktop\Catalog\E-bookCatalog\main.c(137,41): warning C4133: "=": niezgodne typy - od "GtkCellRenderer *" do "GtkTreeViewColumn *"
+C:\Users\micha\Desktop\Catalog\E-bookCatalog\main.c(138,41): warning C4133: "=": niezgodne typy - od "GtkCellRenderer *" do "GtkTreeViewColumn *"
+C:\Users\micha\Desktop\Catalog\E-bookCatalog\main.c(139,41): warning C4133: "=": niezgodne typy - od "GtkCellRenderer *" do "GtkTreeViewColumn *"
+C:\Users\micha\Desktop\Catalog\E-bookCatalog\main.c(140,41): warning C4133: "=": niezgodne typy - od "GtkCellRenderer *" do "GtkTreeViewColumn *"
+C:\Users\micha\Desktop\Catalog\E-bookCatalog\main.c(141,41): warning C4133: "=": niezgodne typy - od "GtkCellRenderer *" do "GtkTreeViewColumn *"
+C:\Users\micha\Desktop\Catalog\E-bookCatalog\main.c(142,41): warning C4133: "=": niezgodne typy - od "GtkCellRenderer *" do "GtkTreeViewColumn *"
+C:\Users\micha\Desktop\Catalog\E-bookCatalog\main.c(150,51): warning C4133: "funkcja": niezgodne typy - od "GtkTreeViewColumn *" do "GtkCellRenderer *"
+C:\Users\micha\Desktop\Catalog\E-bookCatalog\main.c(151,51): warning C4133: "funkcja": niezgodne typy - od "GtkTreeViewColumn *" do "GtkCellRenderer *"
+C:\Users\micha\Desktop\Catalog\E-bookCatalog\main.c(152,51): warning C4133: "funkcja": niezgodne typy - od "GtkTreeViewColumn *" do "GtkCellRenderer *"
+C:\Users\micha\Desktop\Catalog\E-bookCatalog\main.c(153,51): warning C4133: "funkcja": niezgodne typy - od "GtkTreeViewColumn *" do "GtkCellRenderer *"
+C:\Users\micha\Desktop\Catalog\E-bookCatalog\main.c(154,51): warning C4133: "funkcja": niezgodne typy - od "GtkTreeViewColumn *" do "GtkCellRenderer *"
+C:\Users\micha\Desktop\Catalog\E-bookCatalog\main.c(155,51): warning C4133: "funkcja": niezgodne typy - od "GtkTreeViewColumn *" do "GtkCellRenderer *"
+C:\Users\micha\Desktop\Catalog\E-bookCatalog\main.c(219,42): warning C4133: "funkcja": niezgodne typy - od "GtkWidget *" do "GtkTreeView *"
+C:\Users\micha\Desktop\Catalog\E-bookCatalog\main.c(253,33): warning C4133: "funkcja": niezgodne typy - od "GtkWidget *" do "GtkWindow *"
+C:\Users\micha\Desktop\Catalog\E-bookCatalog\main.c(284,1): warning C4090: "inicjowanie": różniące się kwalifikatory "const"
+C:\Users\micha\Desktop\Catalog\E-bookCatalog\main.c(297,1): warning C4090: "inicjowanie": różniące się kwalifikatory "const"
+  Functions.c
+C:\Users\micha\Desktop\Catalog\E-bookCatalog\Functions.c(109,36): warning C4047: "funkcja": "GtkTreeIter *" różni się w poziomach operatorów pośrednich od "GtkTreeIter **"
+C:\Users\micha\Desktop\Catalog\E-bookCatalog\Functions.c(109,36): warning C4024: "gtk_list_store_append": różne typy dla formalnego i rzeczywistego parametru 2
+C:\Users\micha\Desktop\Catalog\E-bookCatalog\Functions.c(110,33): warning C4047: "funkcja": "GtkTreeIter *" różni się w poziomach operatorów pośrednich od "GtkTreeIter **"
+C:\Users\micha\Desktop\Catalog\E-bookCatalog\Functions.c(110,33): warning C4024: "gtk_list_store_set": różne typy dla formalnego i rzeczywistego parametru 2
+C:\Users\micha\Desktop\Catalog\E-bookCatalog\Functions.c(135,37): warning C4047: "funkcja": "GtkTreeIter *" różni się w poziomach operatorów pośrednich od "GtkTreeIter **"
+C:\Users\micha\Desktop\Catalog\E-bookCatalog\Functions.c(135,37): warning C4024: "gtk_list_store_append": różne typy dla formalnego i rzeczywistego parametru 2
+C:\Users\micha\Desktop\Catalog\E-bookCatalog\Functions.c(136,34): warning C4047: "funkcja": "GtkTreeIter *" różni się w poziomach operatorów pośrednich od "GtkTreeIter **"
+C:\Users\micha\Desktop\Catalog\E-bookCatalog\Functions.c(136,34): warning C4024: "gtk_list_store_set": różne typy dla formalnego i rzeczywistego parametru 2
+C:\Users\micha\Desktop\Catalog\E-bookCatalog\Functions.c(163,37): warning C4047: "funkcja": "GtkTreeIter *" różni się w poziomach operatorów pośrednich od "GtkTreeIter **"
+C:\Users\micha\Desktop\Catalog\E-bookCatalog\Functions.c(163,37): warning C4024: "gtk_list_store_append": różne typy dla formalnego i rzeczywistego parametru 2
+C:\Users\micha\Desktop\Catalog\E-bookCatalog\Functions.c(164,34): warning C4047: "funkcja": "GtkTreeIter *" różni się w poziomach operatorów pośrednich od "GtkTreeIter **"
+C:\Users\micha\Desktop\Catalog\E-bookCatalog\Functions.c(164,34): warning C4024: "gtk_list_store_set": różne typy dla formalnego i rzeczywistego parametru 2
+  Number_of_lines.c
+  Generowanie kodu...
+Add_datas.obj : warning LNK4075: zignorowano opcję „/EDITANDCONTINUE” z powodu określenia opcji „/OPT:ICF”
+  E-bookCatalog.vcxproj -> C:\Users\micha\Desktop\Catalog\x64\Release\E-bookCatalog.exe

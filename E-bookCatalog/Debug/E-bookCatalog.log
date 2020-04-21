@@ -1,0 +1,68 @@
+﻿  main.c
+C:\Users\micha\source\repos\E-bookCatalog\E-bookCatalog\main.c(54,1): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : zobacz deklarację „fopen”
+C:\Users\micha\source\repos\E-bookCatalog\E-bookCatalog\main.c(56,1): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : zobacz deklarację „fopen”
+C:\Users\micha\source\repos\E-bookCatalog\E-bookCatalog\main.c(58,1): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : zobacz deklarację „fopen”
+C:\Users\micha\source\repos\E-bookCatalog\E-bookCatalog\main.c(60,1): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : zobacz deklarację „fopen”
+C:\Users\micha\source\repos\E-bookCatalog\E-bookCatalog\main.c(62,1): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : zobacz deklarację „fopen”
+C:\Users\micha\source\repos\E-bookCatalog\E-bookCatalog\main.c(64,1): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : zobacz deklarację „fopen”
+C:\Users\micha\source\repos\E-bookCatalog\E-bookCatalog\main.c(200,41): warning C4133: "=": niezgodne typy - od "GtkCellRenderer *" do "GtkTreeViewColumn *"
+C:\Users\micha\source\repos\E-bookCatalog\E-bookCatalog\main.c(201,41): warning C4133: "=": niezgodne typy - od "GtkCellRenderer *" do "GtkTreeViewColumn *"
+C:\Users\micha\source\repos\E-bookCatalog\E-bookCatalog\main.c(202,41): warning C4133: "=": niezgodne typy - od "GtkCellRenderer *" do "GtkTreeViewColumn *"
+C:\Users\micha\source\repos\E-bookCatalog\E-bookCatalog\main.c(203,41): warning C4133: "=": niezgodne typy - od "GtkCellRenderer *" do "GtkTreeViewColumn *"
+C:\Users\micha\source\repos\E-bookCatalog\E-bookCatalog\main.c(204,41): warning C4133: "=": niezgodne typy - od "GtkCellRenderer *" do "GtkTreeViewColumn *"
+C:\Users\micha\source\repos\E-bookCatalog\E-bookCatalog\main.c(205,41): warning C4133: "=": niezgodne typy - od "GtkCellRenderer *" do "GtkTreeViewColumn *"
+C:\Users\micha\source\repos\E-bookCatalog\E-bookCatalog\main.c(213,51): warning C4133: "funkcja": niezgodne typy - od "GtkTreeViewColumn *" do "GtkCellRenderer *"
+C:\Users\micha\source\repos\E-bookCatalog\E-bookCatalog\main.c(214,51): warning C4133: "funkcja": niezgodne typy - od "GtkTreeViewColumn *" do "GtkCellRenderer *"
+C:\Users\micha\source\repos\E-bookCatalog\E-bookCatalog\main.c(215,51): warning C4133: "funkcja": niezgodne typy - od "GtkTreeViewColumn *" do "GtkCellRenderer *"
+C:\Users\micha\source\repos\E-bookCatalog\E-bookCatalog\main.c(216,51): warning C4133: "funkcja": niezgodne typy - od "GtkTreeViewColumn *" do "GtkCellRenderer *"
+C:\Users\micha\source\repos\E-bookCatalog\E-bookCatalog\main.c(217,51): warning C4133: "funkcja": niezgodne typy - od "GtkTreeViewColumn *" do "GtkCellRenderer *"
+C:\Users\micha\source\repos\E-bookCatalog\E-bookCatalog\main.c(218,51): warning C4133: "funkcja": niezgodne typy - od "GtkTreeViewColumn *" do "GtkCellRenderer *"
+C:\Users\micha\source\repos\E-bookCatalog\E-bookCatalog\main.c(271,42): warning C4133: "funkcja": niezgodne typy - od "GtkWidget *" do "GtkTreeView *"
+  Functions.c
+C:\Users\micha\source\repos\E-bookCatalog\E-bookCatalog\Functions.c(5,1): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : zobacz deklarację „fopen”
+C:\Users\micha\source\repos\E-bookCatalog\E-bookCatalog\Functions.c(27,1): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : zobacz deklarację „fopen”
+C:\Users\micha\source\repos\E-bookCatalog\E-bookCatalog\Functions.c(28,1): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : zobacz deklarację „fopen”
+C:\Users\micha\source\repos\E-bookCatalog\E-bookCatalog\Functions.c(29,1): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : zobacz deklarację „fopen”
+C:\Users\micha\source\repos\E-bookCatalog\E-bookCatalog\Functions.c(30,1): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : zobacz deklarację „fopen”
+C:\Users\micha\source\repos\E-bookCatalog\E-bookCatalog\Functions.c(31,1): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : zobacz deklarację „fopen”
+C:\Users\micha\source\repos\E-bookCatalog\E-bookCatalog\Functions.c(32,1): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : zobacz deklarację „fopen”
+C:\Users\micha\source\repos\E-bookCatalog\E-bookCatalog\Functions.c(52,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : zobacz deklarację „strcpy”
+C:\Users\micha\source\repos\E-bookCatalog\E-bookCatalog\Functions.c(60,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : zobacz deklarację „strcpy”
+C:\Users\micha\source\repos\E-bookCatalog\E-bookCatalog\Functions.c(68,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : zobacz deklarację „strcpy”
+C:\Users\micha\source\repos\E-bookCatalog\E-bookCatalog\Functions.c(76,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : zobacz deklarację „strcpy”
+C:\Users\micha\source\repos\E-bookCatalog\E-bookCatalog\Functions.c(84,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : zobacz deklarację „strcpy”
+C:\Users\micha\source\repos\E-bookCatalog\E-bookCatalog\Functions.c(92,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : zobacz deklarację „strcpy”
+C:\Users\micha\source\repos\E-bookCatalog\E-bookCatalog\Functions.c(106,1): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : zobacz deklarację „fopen”
+C:\Users\micha\source\repos\E-bookCatalog\E-bookCatalog\Functions.c(167,36): warning C4047: "funkcja": "GtkTreeIter *" różni się w poziomach operatorów pośrednich od "GtkTreeIter **"
+C:\Users\micha\source\repos\E-bookCatalog\E-bookCatalog\Functions.c(167,36): warning C4024: "gtk_list_store_append": różne typy dla formalnego i rzeczywistego parametru 2
+C:\Users\micha\source\repos\E-bookCatalog\E-bookCatalog\Functions.c(168,33): warning C4047: "funkcja": "GtkTreeIter *" różni się w poziomach operatorów pośrednich od "GtkTreeIter **"
+C:\Users\micha\source\repos\E-bookCatalog\E-bookCatalog\Functions.c(168,33): warning C4024: "gtk_list_store_set": różne typy dla formalnego i rzeczywistego parametru 2
+C:\Users\micha\source\repos\E-bookCatalog\E-bookCatalog\Functions.c(281,37): warning C4047: "funkcja": "GtkTreeIter *" różni się w poziomach operatorów pośrednich od "GtkTreeIter **"
+C:\Users\micha\source\repos\E-bookCatalog\E-bookCatalog\Functions.c(281,37): warning C4024: "gtk_list_store_append": różne typy dla formalnego i rzeczywistego parametru 2
+C:\Users\micha\source\repos\E-bookCatalog\E-bookCatalog\Functions.c(282,34): warning C4047: "funkcja": "GtkTreeIter *" różni się w poziomach operatorów pośrednich od "GtkTreeIter **"
+C:\Users\micha\source\repos\E-bookCatalog\E-bookCatalog\Functions.c(282,34): warning C4024: "gtk_list_store_set": różne typy dla formalnego i rzeczywistego parametru 2
+C:\Users\micha\source\repos\E-bookCatalog\E-bookCatalog\Functions.c(296,37): warning C4047: "funkcja": "GtkTreeIter *" różni się w poziomach operatorów pośrednich od "GtkTreeIter **"
+C:\Users\micha\source\repos\E-bookCatalog\E-bookCatalog\Functions.c(296,37): warning C4024: "gtk_list_store_append": różne typy dla formalnego i rzeczywistego parametru 2
+C:\Users\micha\source\repos\E-bookCatalog\E-bookCatalog\Functions.c(297,34): warning C4047: "funkcja": "GtkTreeIter *" różni się w poziomach operatorów pośrednich od "GtkTreeIter **"
+C:\Users\micha\source\repos\E-bookCatalog\E-bookCatalog\Functions.c(297,34): warning C4024: "gtk_list_store_set": różne typy dla formalnego i rzeczywistego parametru 2
+  Generowanie kodu...

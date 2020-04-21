@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\micha\source\repos\E-bookCatalog\E-bookCatalog\</FILEPATH>
+      <FILENAME>main.c</FILENAME>
+      <LINE>276</LINE>
+      <COLUMN>5</COLUMN>
+    </SFA>
+    <DEFECTCODE>6262</DEFECTCODE>
+    <DESCRIPTION>Liczba bajtów stosu używana przez funkcję („412064”) przekracza wartość /analyze:stacksize „16384”. Rozważ przeniesienie części danych na stertę.</DESCRIPTION>
+    <FUNCTION>createTitle</FUNCTION>
+    <DECORATED>createTitle</DECORATED>
+    <FUNCLINE>276</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\micha\source\repos\E-bookCatalog\E-bookCatalog\</FILEPATH>
+      <FILENAME>main.c</FILENAME>
+      <LINE>289</LINE>
+      <COLUMN>5</COLUMN>
+    </SFA>
+    <DEFECTCODE>6262</DEFECTCODE>
+    <DESCRIPTION>Liczba bajtów stosu używana przez funkcję („412064”) przekracza wartość /analyze:stacksize „16384”. Rozważ przeniesienie części danych na stertę.</DESCRIPTION>
+    <FUNCTION>createAuthor</FUNCTION>
+    <DECORATED>createAuthor</DECORATED>
+    <FUNCLINE>289</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
